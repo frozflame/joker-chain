@@ -1,4 +1,4 @@
-joker.chain
+joker-chain
 ===========
 
 simple blockchain.
